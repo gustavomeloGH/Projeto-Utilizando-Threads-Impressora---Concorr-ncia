@@ -53,6 +53,6 @@
     <p>Apenas realizando impressões com arquivos .txt.</p>
   </li>
   <li>
-    <p>Futuramente, projeto poderá ser complementado com aplicação SGBD, alterando a persistência para banco de dados. (Atual arquivos)</p>
+    <p>Futuramente, projeto poderá ser complementado com aplicação JDBC, alterando a persistência para banco de dados. (Atual arquivos)</p>
   </li>
 </ul>
