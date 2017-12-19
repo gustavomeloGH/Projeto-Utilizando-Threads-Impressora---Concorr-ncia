@@ -1,4 +1,4 @@
-<h1><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewBox="0 0 16 16" width="16"></svg></a>Projeto utilizando conceitos de concorrência - Impressora Concorrência</h1>
+<h2><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewBox="0 0 16 16" width="16"></svg></a>Projeto utilizando conceitos de concorrência - Impressora Concorrência</h1>
 <h3><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewBox="0 0 16 16" width="16"></svg></a>Conceitos de concorrência utilizados: </h3>
 
 <ul>
